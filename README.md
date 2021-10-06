@@ -1,5 +1,8 @@
 # Movie-App
 
+##Screen
+![HumzaSajid](https://user-images.githubusercontent.com/20709155/136188604-1e690e28-624b-4528-a0de-416cf541975f.png)
+
 
 ## What does this app do?
 - You can search movies , you can find trending movies, tv shows.
