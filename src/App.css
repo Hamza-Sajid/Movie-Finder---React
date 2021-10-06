@@ -1,0 +1,155 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.top{
+    
+ display: inline-block;
+ position: relative;
+margin: auto;
+align-items: center;
+text-align: center;
+position: relative;
+margin-left: 9%;
+
+ /* display: inline-block;
+ width: 20%;
+ height: 100%;
+ position: relative;
+ margin-top: 5%;
+ margin-left: 10%; */
+}
+.ant-card
+{
+    margin: auto;
+    width: 20em!important;
+    height: 10em!important;
+}
+.ant-card-cover img
+{
+    border-radius: 5px!important;
+}
+
+.ant-card-cover:hover
+{
+
+    box-shadow: 2px 2px 6px 0px gray;
+
+}
+h2
+{
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 2em;
+    
+}
+.ant-btn-primary
+{
+    
+
+}
+.ant-input-group-addon
+{
+    background-color: white;
+    
+}
+.ant-input-group > .ant-input:first-child, .ant-input-group-addon:first-child
+{
+    width: auto;
+}
+
+.ant-layout-header {
+
+
+    height: 110px;
+}
+
+
+h3{
+    text-align: center;
+    color: blanchedalmond;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img
+{
+    align-items: center;
+    margin: auto;
+    display: block;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+.navbar-expand-lg .navbar-collapse
+{
+    flex-direction: column;
+}
+.navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .show>.nav-link
+{
+    font-size: 18px;
+    margin-left: 2em;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+.ant-spin-container
+{
+    width:70%;
+    margin: auto;
+    
+}
+
+.ant-table-pagination.ant-pagination {
+display: block;
+margin: auto;
+text-align: center;
+margin-top: 2.5em;
+
+
+}
+.ant-input-group > .ant-input:first-child, .ant-input-group-addon:first-child
+{
+    width: auto;
+    
+}
+.ant-btn > .anticon {
+    line-height: 1;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    
+    
+    
+}
+.ant-input-search > .ant-input-group > .ant-input-group-addon:last-child .ant-input-search-button
+{
+    
+}
+.ant-layout-header
+{
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/ 
+    height: 18%;
+    
+}
+
+.searchbar
+{
+    
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    align-items: center;
+    display: block;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+.ant-layout-footer
+{
+    color: rgba(0, 0, 0, 0.85);
+    line-height: 64px;
+    background: #001529;
+    margin-top: 1em;
+}
