@@ -1,6 +1,6 @@
 # Movie-App
 ## Live Link
-https://hamza-sajid.github.io/Todayshow
+https://hamza-sajid.github.io/Movie-Finder---React/
 
 ![HumzaSajid](https://user-images.githubusercontent.com/20709155/136188604-1e690e28-624b-4528-a0de-416cf541975f.png)
 
